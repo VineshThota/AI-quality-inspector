@@ -1,0 +1,61 @@
+# AI Quality Inspector - Requirements
+# Computer Vision for Manufacturing Quality Control
+
+# Core dependencies
+streamlit>=1.28.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pandas>=2.0.0
+
+# Machine Learning & AI
+tensorflow>=2.13.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+json5>=0.9.0
+
+# Web framework
+fastapi>=0.100.0
+uvicorn>=0.23.0
+requests>=2.31.0
+
+# Database (optional)
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.7.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Production deployment
+gunicorn>=21.2.0
+redis>=4.6.0
+celery>=5.3.0
+
+# Computer Vision specific
+imageio>=2.31.0
+scikit-image>=0.21.0
+
+# API and documentation
+fastapi-users>=12.1.0
+swagger-ui-bundle>=0.0.9
+
+# Monitoring and logging
+loguru>=0.7.0
+prometheus-client>=0.17.0
